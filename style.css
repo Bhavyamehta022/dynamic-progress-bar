@@ -1,0 +1,18 @@
+.progressDiv {
+  width: 100%;
+}
+.grey {
+  width: 400px;
+  height: 20px;
+  background-color: rgb(193, 192, 192);
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.green {
+  width: 0px;
+  height: 20px;
+  background-color: green;
+  border-radius: 10px;
+  padding-left: 2px;
+  text-align: center;
+}
