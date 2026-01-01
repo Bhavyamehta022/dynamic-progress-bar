@@ -1,0 +1,4 @@
+- Dynamic progress percentage input
+- User-controlled animation duration
+- Smooth CSS-based animation
+- Percentage label displayed above the bar
